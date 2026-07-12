@@ -1,0 +1,14 @@
+C:\Users\mehdi\Downloads\game\obj\Debug\net8.0\JunkyardInventor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehdi\Downloads\game\obj\Debug\net8.0\JunkyardInventor.AssemblyInfoInputs.cache
+C:\Users\mehdi\Downloads\game\obj\Debug\net8.0\JunkyardInventor.AssemblyInfo.cs
+C:\Users\mehdi\Downloads\game\obj\Debug\net8.0\JunkyardInventor.csproj.CoreCompileInputs.cache
+C:\Users\mehdi\Downloads\game\bin\Debug\net8.0\JunkyardInventor.exe
+C:\Users\mehdi\Downloads\game\bin\Debug\net8.0\JunkyardInventor.deps.json
+C:\Users\mehdi\Downloads\game\bin\Debug\net8.0\JunkyardInventor.runtimeconfig.json
+C:\Users\mehdi\Downloads\game\bin\Debug\net8.0\JunkyardInventor.dll
+C:\Users\mehdi\Downloads\game\bin\Debug\net8.0\JunkyardInventor.pdb
+C:\Users\mehdi\Downloads\game\obj\Debug\net8.0\JunkyardInventor.dll
+C:\Users\mehdi\Downloads\game\obj\Debug\net8.0\refint\JunkyardInventor.dll
+C:\Users\mehdi\Downloads\game\obj\Debug\net8.0\JunkyardInventor.pdb
+C:\Users\mehdi\Downloads\game\obj\Debug\net8.0\JunkyardInventor.genruntimeconfig.cache
+C:\Users\mehdi\Downloads\game\obj\Debug\net8.0\ref\JunkyardInventor.dll
