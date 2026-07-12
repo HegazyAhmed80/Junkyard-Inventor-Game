@@ -1,0 +1,8 @@
+# Ignore large binary mock assets for Ko-fi package size
+assets/
+bin/
+*.wav
+*.png
+*.dll
+*.exe
+time_janitor
