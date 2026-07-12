@@ -12,3 +12,4 @@ C:\Users\mehdi\Downloads\game\obj\Debug\net8.0\refint\JunkyardInventor.dll
 C:\Users\mehdi\Downloads\game\obj\Debug\net8.0\JunkyardInventor.pdb
 C:\Users\mehdi\Downloads\game\obj\Debug\net8.0\JunkyardInventor.genruntimeconfig.cache
 C:\Users\mehdi\Downloads\game\obj\Debug\net8.0\ref\JunkyardInventor.dll
+C:\Users\mehdi\Downloads\game\obj\Debug\net8.0\JunkyardInventor.sourcelink.json

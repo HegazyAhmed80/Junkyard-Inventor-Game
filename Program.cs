@@ -14,6 +14,14 @@ namespace JunkyardInventor
             Console.WriteLine("====================================================");
             Console.ResetColor();
 
+            if (args.Length > 0 && args[0] == "--secret-dance")
+            {
+                Console.ForegroundColor = ConsoleColor.Magenta;
+                Console.WriteLine("🕺 Dancing robot initialized... beep boop cha-cha-cha!");
+                Console.ResetColor();
+                return;
+            }
+
             if (args.Length > 0)
             {
                 if (args[0] == "--craft" && args.Length > 1)
